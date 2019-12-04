@@ -13,7 +13,7 @@ Use Visual Studio to open the project.
 ### Installing
 
 1) Clone project
-2) Open "Build" folder 
+2) Open "Launcher" folder 
 3) Open WebBrowser.exec
 
 ## Built With
