@@ -1,0 +1,8 @@
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe.config
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.exe
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\bin\Debug\WebBrowser.pdb
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.MainForm.resources
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.Properties.Resources.resources
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.csproj.GenerateResource.cache
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.exe
+C:\Users\wwwam\Documents\Repositorios\WebBrowser\WebBrowser\WebBrowser\obj\Debug\WebBrowser.pdb
